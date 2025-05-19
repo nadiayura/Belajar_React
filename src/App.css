@@ -1,0 +1,29 @@
+.dark-theme {
+  background-color: #343a40;
+  color: #f8f9fa;
+  min-height: 100vh;
+}
+
+.light-theme {
+  background-color: #f8f9fa;
+  color: #343a40;
+  min-height: 100vh;
+}
+
+.color-option {
+  transition: all 0.2s ease;
+}
+
+.color-option:hover {
+  transform: scale(1.05);
+}
+
+.card {
+  transition: all 0.3s ease;
+}
+
+@media (max-width: 768px) {
+  .col-md-4 {
+    margin-bottom: 1rem;
+  }
+}
