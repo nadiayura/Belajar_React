@@ -1,4 +1,4 @@
-# React Dengan Vite untuk Catatan Sehari-hari
+# React Component dengan Conditional Rendering untuk Catatan Sehari-hari
 
 Tampilan Light Mode 
 ![image](https://github.com/user-attachments/assets/58369d40-2ebc-4e2b-bbd9-53e9a28f008f)
